@@ -237,9 +237,7 @@
                 }
               ]
             },
-            "linkedEntityGuids": [
-              "MTU2NzI3N3xWSVp8REFTSEJPQVJEfDk3MzE4Mw"
-            ]
+            "linkedEntityGuids": null
           },
           {
             "visualization": {
